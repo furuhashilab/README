@@ -10,13 +10,21 @@
 
 ![2017-10-26 11 34 12](https://user-images.githubusercontent.com/416977/32032621-0890c01a-ba43-11e7-8a87-b04e8e8335b1.jpg)
 
+# 公式情報発信サイト
+* Facebook : https://www.facebook.com/furuhashilab/
+* Twitter : https://twitter.com/mapconcierge
+* 公式WEB : http://furuhashilab.com/
+* 公式ブログ : https://medium.com/furuhashilab
+* 公式GitHub : https://github.com/furuhashilab
+* ゼミ生向けSlack : http://furuhashilab.slack.com/
+
+---
 
 【研究内容】
 
 # 目的：
 一億総伊能化社会※ における、よりしなやか(レジリエント)な社会システムを提案し、実践する
 ※ スマホのような端末の存在によって、誰もが当たり前に空間情報の恩恵を受け、それを利活用できる世の中
-
 
 # 達成目標：
 ## ３年次
@@ -65,7 +73,7 @@
 # 授業について
  
 ## 1． 欠席、遅刻、途中退席について
-* 欠席の場合は事前に [ゼミ共通のSlack](http://furuhashilab.slack.com/) 
+* 欠席・遅刻・途中退席の場合は事前に [ゼミ共通のSlack](http://furuhashilab.slack.com/)  に欠席連絡を入れ、オンラインにて参加することとする。
  
 ## 2． 私語について
 * 原則禁止とする。
