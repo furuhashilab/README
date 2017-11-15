@@ -30,7 +30,7 @@
 ## ３年次
 * 現時点で実現されている社会システムを、空間情報の視点で把握できるようになる。
 * 把握した情報や知識を可視化し、他者に伝えられるようになる。
-* 早い段階でクライシスマッピングに参画できるよう、マッパーレベルを**中級者クラス**まで引き上げる。（現在の閾値 [INTERMIDIATE以上](http://learnosm.org/en/coordination/tm-whats-new-for-mappers/)。 ex.[古橋](https://tasks.hotosm.org/user/MAPconcierge) ）
+* 早い段階でクライシスマッピングに参画できるよう、マッパーレベルを**中級者クラス**まで引き上げる。（現在の閾値 [INTERMEDIATE以上](http://learnosm.org/en/coordination/tm-whats-new-for-mappers/)。 ex.[古橋](https://tasks.hotosm.org/user/MAPconcierge) ）
 
 
 ## ４年次
