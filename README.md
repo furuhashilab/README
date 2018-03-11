@@ -112,6 +112,8 @@
 ## テント
 * 1-2名用の小型テント。1-2万円程度で十分。
 * 推奨テント LOGOS ナバホTepee 300(定価税別21,000円) http://www.logos.ne.jp/products/info/2046
+<img src="https://user-images.githubusercontent.com/416977/37259450-c77d6db0-25c9-11e8-9bda-f4126f2ec775.jpg" width="200">
+
 
 ## ヘッドランプ
 * 小型軽量LEDタイプ
