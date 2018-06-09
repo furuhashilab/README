@@ -95,7 +95,7 @@
  
 ## 5． 古橋ゼミ特有のルール
 * ウェブ利用時の原則として**モダンウェブブラウザ**である Firefox, Chrome, Safari, Edge を前提とします。特にモダンウェブブラウザではない Microsoft Internet Explorer（以下IE） は使用禁止とします。もし IE を使用したことが原因で発生したトラブルについては一切対応しません。 
-* 文書等の提出は基本 [**Markdown記法**](http://www.openstreetmap.org/user/MAPconcierge/diary/38649) とします。ウェブブラウザで扱うことが出来、Permalinkとして機能する手法でのみ受け付けます。Microsft Word Document File（以下 doc/docx ファイルで提出した場合は受け取りません）
+* 文書等の提出は基本 [**Markdown記法**](http://www.openstreetmap.org/user/MAPconcierge/diary/38649) とします。ウェブブラウザで扱うことが出来、Permalinkとして機能する手法でのみ受け付けます。Microsft Word Document File（以下 doc/docx ファイル）で提出した場合は受け取りません。
 * 文字コードは原則 **UTF-8** のみとします。ShiftJISやEUC等は特別な理由がない限り使用しないでください。
 * 特別な理由がない限り印刷目的のコンテンツに対して MSゴシック/MS明朝等のディスプレイ表示用フォント使用は禁止します。印刷用に最適化されたフォントを選んでください。
 
