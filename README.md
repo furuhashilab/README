@@ -19,7 +19,8 @@
 * ゼミ生向けSlack : http://furuhashilab.slack.com/
 * ゼミ生向けGoogleカレンダー : [https://calendar.google.com/](https://calendar.google.com/calendar/embed?src=anpvnieclcm84ibb28epicuee8%40group.calendar.google.com&ctz=Asia%2FTokyo) 
 
- ※ 「ゼミカレンダーを見ていないために予定に気づきませんでした」という言い訳は通用しません。
+```※ 「ゼミカレンダーを見ていないために予定に気づきませんでした」という言い訳は通用しません。```
+
 ---
 
 【研究内容】
