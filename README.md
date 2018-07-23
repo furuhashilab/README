@@ -17,7 +17,7 @@
 * 公式ブログ : https://medium.com/furuhashilab
 * 公式GitHub : https://github.com/furuhashilab
 * ゼミ生向けSlack : http://furuhashilab.slack.com/
-
+* ゼミ生向けGoogleカレンダー : [https://calendar.google.com/](https://calendar.google.com/calendar/embed?src=anpvnieclcm84ibb28epicuee8%40group.calendar.google.com&ctz=Asia%2FTokyo)
 ---
 
 【研究内容】
