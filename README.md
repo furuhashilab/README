@@ -18,6 +18,7 @@
 * 公式GitHub : https://github.com/furuhashilab
 * ゼミ生向けSlack : http://furuhashilab.slack.com/
 * ゼミ生向けGoogleカレンダー : [https://calendar.google.com/](https://calendar.google.com/calendar/embed?src=anpvnieclcm84ibb28epicuee8%40group.calendar.google.com&ctz=Asia%2FTokyo) 
+
  ※ 「ゼミカレンダーを見ていないために予定に気づきませんでした」という言い訳は通用しません。
 ---
 
@@ -97,6 +98,7 @@
 * 服装は自由。
  
 ## 5． 古橋ゼミ特有のルール
+※ 「ゼミ生向けGoogleカレンダー : [https://calendar.google.com/](https://calendar.google.com/calendar/embed?src=anpvnieclcm84ibb28epicuee8%40group.calendar.google.com&ctz=Asia%2FTokyo) を見ていないために予定に気づきませんでした」という言い訳は通用しません。
 * ウェブ利用時の原則として**モダンウェブブラウザ**である Firefox, Chrome, Safari, Edge を前提とします。特にモダンウェブブラウザではない Microsoft Internet Explorer（以下IE） は使用禁止とします。もし IE を使用したことが原因で発生したトラブルについては一切対応しません。 
 * 文書等の提出は基本 [**Markdown記法**](http://www.openstreetmap.org/user/MAPconcierge/diary/38649) とします。ウェブブラウザで扱うことが出来、Permalinkとして機能する手法でのみ受け付けます。Microsft Word Document File（以下 doc/docx ファイル）で提出した場合は受け取りません。
 * 文字コードは原則 **UTF-8** のみとします。ShiftJISやEUC等は特別な理由がない限り使用しないでください。
