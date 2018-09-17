@@ -1,5 +1,5 @@
 # README/この研究室の特徴
-古橋研究室（古橋ゼミ）に興味のある学生は、必ず最初に読んでください。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md">2018/07/23 10:30JST Updated)</a>
+古橋研究室（古橋ゼミ）に興味のある学生は、必ず最初に読んでください。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md">2018/09/17 16:30JST Updated)</a>
 
 * **フィールドワーク重視**
 -- ゼミ所属の学生は全員 **<a href="#nebukuro">寝袋</a>** / **<a href="#tent">テント(1-2名用)</a>** を購入してもらいます。毎月ゼミ合宿があります。（年間１２回以上企画されるゼミ合宿のうち最低３回以上の参加が条件）
@@ -37,7 +37,8 @@
 * 参加したフィールドワークの報告をオンライン上で必ず行う。
 * 毎年数回開催される国際会議・カンファレンスに3月末までに1回以上参加が必須。
 * 早い段階でクライシスマッピングに参画できるよう、マッパーレベルを**中級者クラス**まで引き上げる。（現在の閾値 [INTERMEDIATE以上](http://learnosm.org/en/coordination/tm-whats-new-for-mappers/)。 ex.[古橋](https://tasks.hotosm.org/user/MAPconcierge) ）
-* フィールドワークを楽しめる素養を得るために **INGRESSはLevel8以上** and **Pokémon GOはLevel20以上**もしくは**相応の位置情報ツール実績**を獲得する。毎年 9/30 23:59 JST までに三年生の中間報告として目標レベルの2/3（INGRESS Lv5以上、PokemonGO Lv13以上）到達しているかチェックする。到達していない場合は指導対象から外す。同様に毎年 3/31 23:59 JST までに三年生は達成目標をクリアし、プロフィールスクリーンショットを<a href="https://www.facebook.com/groups/furuhashilabnow/">Facebookグループ</a>に必ず投稿すること。期日に間に合わなかった場合は指導対象から外す。
+* フィールドワークを楽しめる素養を得るために **INGRESSはLevel6以上** and **Pokémon GOはLevel25以上**もしくは**相応の位置情報ツール実績**を獲得する。毎年 9/30 23:59 JST までに三年生の中間報告として目標レベルの2/3（INGRESS Lv5以上、PokemonGO Lv13以上）到達しているかチェックする。到達していない場合は指導対象から外す。同様に毎年 3/31 23:59 JST までに三年生は達成目標をクリアし、プロフィールスクリーンショットを<a href="https://www.facebook.com/groups/furuhashilabnow/">Facebookグループ</a>に必ず投稿すること。期日に間に合わなかった場合は指導対象から外す。
+※ 2018-09-17 に目標レベルの値を学生たちと議論して修正しました。
 
 ## ４年次
 * これからのしなやかな社会システムはどうあるべきか、仮説と提案ができるようになる。
