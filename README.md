@@ -2,7 +2,7 @@
 古橋研究室（古橋ゼミ）に興味のある学生は、必ず最初に読んでください。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md">2018/10/17 16:30JST Updated)</a>
 
 * **フィールドワーク重視**
--- ゼミ所属の学生は全員 **<a href="#nebukuro">寝袋</a>** / **<a href="#tent">テント(1-2名用)</a>** を購入してもらいます。毎月ゼミ合宿があります。（年間１２回以上企画されるゼミ合宿のうち最低３回以上の参加が条件）
+-- <a href="#furuhashilabrules">ゼミ</a>所属の学生は全員 **<a href="#nebukuro">寝袋</a>** / **<a href="#tent">テント(1-2名用)</a>** を購入してもらいます。毎月ゼミ合宿があります。（年間１２回以上企画されるゼミ合宿のうち最低３回以上の参加が条件）
 * **アウトプット重視**
 -- " **[Publish or Die](https://medium.com/furuhashilab/publish-or-die-8adb6fc8ad2b)** ": 積極的な発言、成果発表、提出物がすべて。<a href="#tassei">達成目標</a>をクリアできない学生は指導対象から外しますので注意してください。
 * **イベント運営経験重視**
@@ -99,7 +99,7 @@
 ## 4． 帽子・パーカー等服装について
 * 服装は自由。
  
-## 5． 古橋ゼミ特有のルール
+## 5． <a name="furuhashilabrules">古橋ゼミ特有のルール</a>
 ※ 「ゼミ生向けGoogleカレンダー : [https://calendar.google.com/](https://calendar.google.com/calendar/embed?src=anpvnieclcm84ibb28epicuee8%40group.calendar.google.com&ctz=Asia%2FTokyo) を見ていないために予定に気づきませんでした」という言い訳は通用しません。
 * ウェブ利用時の原則として**モダンウェブブラウザ**である Firefox, Chrome, Safari, Edge を前提とします。特にモダンウェブブラウザではない Microsoft Internet Explorer（以下IE） は使用禁止とします。もし IE を使用したことが原因で発生したトラブルについては一切対応しません。 
 * 文書等の提出は基本 [**Markdown記法**](http://www.openstreetmap.org/user/MAPconcierge/diary/38649) とします。ウェブブラウザで扱うことが出来、Permalinkとして機能する手法でのみ受け付けます。Microsft Word Document File（以下 doc/docx ファイル）で提出した場合は受け取りません。
