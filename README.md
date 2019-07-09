@@ -1,5 +1,5 @@
 # README/この研究室の特徴
-古橋研究室（古橋ゼミ）に興味のある学生は、必ず最初に読んでください。このREADMEを読んでいない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md">2019/07/09 21:30JST Updated)</a>
+古橋研究室（古橋ゼミ）に興味のある学生は、必ず最初に読んでください。このREADMEを理解していない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md">2019/07/09 21:30JST Updated)</a>
 
 * **フィールドワーク重視**
 -- <a href="#furuhashilabrules">ゼミ</a>所属の学生は全員 **<a href="#nebukuro">寝袋</a>** / **<a href="#tent">テント(1-2名用)</a>** を購入してもらいます。毎月ゼミ合宿があります。（年間１２回以上企画されるゼミ合宿のうち最低３回以上の参加が条件）
