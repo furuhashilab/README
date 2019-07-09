@@ -1,5 +1,5 @@
 # README/この研究室の特徴
-古橋研究室（古橋ゼミ）に興味のある学生は、必ず最初に読んでください。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md">2018/11/22 11:30JST Updated)</a>
+古橋研究室（古橋ゼミ）に興味のある学生は、必ず最初に読んでください。このREADMEを読んでいない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md">2019/07/09 21:30JST Updated)</a>
 
 * **フィールドワーク重視**
 -- <a href="#furuhashilabrules">ゼミ</a>所属の学生は全員 **<a href="#nebukuro">寝袋</a>** / **<a href="#tent">テント(1-2名用)</a>** を購入してもらいます。毎月ゼミ合宿があります。（年間１２回以上企画されるゼミ合宿のうち最低３回以上の参加が条件）
@@ -119,16 +119,52 @@
 ---
 
 # 古橋ゼミ標準装備
+## <a name="notepc">ノートPC</a>
+* Display: 解像度 WXGA+(1440×900)以上
+* CPU: Intel製 Core i5 相当以上（推奨）
+* Memory: 8GB以上
+* Storage: 128GB以上
+* Wi-Fi: IEEE802.11a/ac/n (5GHz 帯)が利用できるもの
+* Display Output: HDMIが内蔵端子あるいはアダプタ経由で出力できること
+* OS: macOS 10.13(High Sierra)以降または Windows10 以降のいずれかが動作すること
+* Battely: 標準バッテリでの駆動時間が2時間以上
+
+## <a name="smartphone">スマートフォン</a>
+* OS: iOSもしくはAndroid
+* Geolocation: GPS/GNSS内蔵
+* 最新 Maps.me アプリが実行可能であること
+* 最新 Mapillary アプリが実行可能であること
+* 最新 Strava アプリが実行可能であること
+* 最新 Slack アプリが実行可能であること
+* 最新 Medium アプリが実行可能であること
+* 最新 Zoom アプリが実行可能であること
+* 最新 Facebook アプリが実行可能であること
+* 最新 Facebook Messengerアプリが実行可能であること
+* 最新 Telegram アプリが実行可能であること
+* 最新 Zello アプリが実行可能であること
+* 最新 Google Maps アプリが実行可能であること
+* 最新 Ingress Prime アプリが実行可能であること
+* 最新 Pokemon GO アプリが実行可能であること
+
+## <a name="mobilebattely">モバイルバッテリー</a>
+* Spec: 自分のスマートフォンを12時間運用可能にする為に必要な容量。
+
 ## <a name="nebukuro">寝袋</a>
 * 3シーズン用で十分。
 * 封筒型推奨、アウトドアにハマった人はマミー型。
-* 羽毛など贅沢なものは不要。バーゲンなどを狙えば 500円〜3000円程度で入手可能。
+* 羽毛など贅沢なものは不要。バーゲンなどを狙えば 500円〜3,000円程度で入手可能。
 * DIYショップで安価なヨガマットを追加しておくと寝心地快適。
 
 ## <a name="tent">テント</a>
 * 1-2名用の小型テント。1-2万円程度で十分。
-* 推奨テント LOGOS ナバホTepee 300(定価税別21,000円) http://www.logos.ne.jp/products/info/2046
+* 推奨テント例 Naturehikeテント2人用（グランドシート付）(Amazon価格16,900円) https://amzn.to/2G3Rgoe
+<img src="https://user-images.githubusercontent.com/416977/60890237-dfcb9a00-a295-11e9-9b55-3cc50e189359.jpg" width="200">
+
+* 推奨テント例 LOGOS ナバホTepee300(定価21,000円/但し廃盤商品) http://www.logos.ne.jp/products/info/2046
 <img src="https://user-images.githubusercontent.com/416977/37259450-c77d6db0-25c9-11e8-9bda-f4126f2ec775.jpg" width="200">
+
+* 推奨テント例 CAPTAIN STAG（キャプテン スタッグ）アルミワンポールテント(Amazon価格12,091円) https://amzn.to/2G3Mjfv
+<img src="https://user-images.githubusercontent.com/416977/60890163-b743a000-a295-11e9-99d8-1d9df598394f.jpg" width="200">
 
 
 ## ヘッドランプ
@@ -143,7 +179,5 @@
 * ナイフ
 * ティッシュペーパー（１泊２日で１個）： 食器洗い用にも使用します。
 
-
-
-
-
+# 研究室志望動機の最後キーワード
+私のGitHubアカウントはxxxxxです。 
