@@ -123,7 +123,7 @@
 * Display: 解像度 WXGA+(1440×900)以上
 * CPU: Intel製 Core i5 相当以上（推奨）
 * Memory: 8GB以上
-* Storage: 128GB以上
+* Storage: 128GB以上のSSD
 * Wi-Fi: IEEE802.11a/ac/n (5GHz 帯)が利用できるもの
 * Display Output: HDMIが内蔵端子あるいはアダプタ経由で出力できること
 * OS: macOS 10.13(High Sierra)以降または Windows10 以降のいずれかが動作すること
