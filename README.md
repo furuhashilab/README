@@ -127,7 +127,7 @@
 * Wi-Fi: IEEE802.11a/ac/n (5GHz 帯)が利用できるもの
 * Display Output: HDMIが内蔵端子あるいはアダプタ経由で出力できること
 * OS: macOS 10.13(High Sierra)以降または Windows10 以降のいずれかが動作すること
-* Battely: 標準バッテリでの駆動時間が2時間以上
+* Battery: 標準バッテリでの駆動時間が2時間以上
 
 ## <a name="smartphone">スマートフォン</a>
 * OS: iOSもしくはAndroid
