@@ -133,20 +133,9 @@
 ## <a name="smartphone">スマートフォン</a>
 * OS: iOSもしくはAndroid
 * Geolocation: GPS/GNSS内蔵
-* 最新 Maps.me アプリが実行可能であること
-* 最新 Mapillary アプリが実行可能であること
-* 最新 Strava アプリが実行可能であること
-* 最新 Slack アプリが実行可能であること
-* 最新 Medium アプリが実行可能であること
-* 最新 Zoom アプリが実行可能であること
-* 最新 Facebook アプリが実行可能であること
-* 最新 Facebook Messengerアプリが実行可能であること
-* 最新 Telegram アプリが実行可能であること
-* 最新 Zello アプリが実行可能であること
-* 最新 Google Maps アプリが実行可能であること
-* 最新 Ingress Prime アプリが実行可能であること
-* 最新 Pokemon GO アプリが実行可能であること
+* [古橋研究室 標準アプリ[(https://github.com/furuhashilab/README/issues/12) をすべて使えるようにすること。
 
+* 最新 Mapillary アプリが実行可能であること
 ## <a name="mobilebattely">モバイルバッテリー</a>
 * Spec: 自分のスマートフォンを12時間運用可能にする為に必要な容量。
 
