@@ -1,5 +1,5 @@
 # README/この研究室の特徴
-古橋研究室（古橋ゼミ）に興味のある学生は、必ず最初に読んでください。このREADMEを理解していない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md">2019/07/09 21:30JST Updated)</a>
+古橋研究室（古橋ゼミ）に興味のある学生は、必ず最初に読んでください。このREADMEを理解していない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md">2019/07/30 08:30JST Updated)</a>
 
 * **フィールドワーク重視**
 -- <a href="#furuhashilabrules">ゼミ</a>所属の学生は全員 **<a href="#nebukuro">寝袋</a>** / **<a href="#tent">テント(1-2名用)</a>** を購入してもらいます。毎月ゼミ合宿があります。（年間１２回以上企画されるゼミ合宿のうち最低３回以上の参加が条件）
@@ -32,6 +32,7 @@
 
 # <a name="tassei">達成目標：</a>
 ## ３年次
+* [古橋研究室基本モバイルアプリ](https://github.com/furuhashilab/README/issues/12) はすべて使いこなせるようになる。
 * 現時点で実現されている社会システムを、空間情報の視点で把握できるようになる。
 * 把握した情報や知識を可視化し、他者に伝えられるようになる。
 * 毎月1回以上開催されるゼミ合宿(フィールドワーク)に3月末までに3回以上参加が必須。
