@@ -1,5 +1,5 @@
 # README/この研究室の特徴
-古橋研究室（古橋ゼミ）に興味のある学生は、必ず最初に読んでください。このREADMEを理解していない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md">2019/08/09 07:00JST Updated)</a>
+古橋研究室（古橋ゼミ）に興味のある学生は、必ず最初に読んでください。このREADMEを理解していない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md">2019/08/16 13:00JST Updated)</a>
 
 * **フィールドワーク重視**
 -- <a href="#furuhashilabrules">ゼミ</a>所属の学生は全員 **<a href="#nebukuro">寝袋</a>** / **<a href="#tent">テント(1-2名用)</a>** を購入してもらいます。毎月ゼミ合宿があります。（年間１２回以上企画されるゼミ合宿のうち最低３回以上の参加が条件）
@@ -155,7 +155,7 @@
 * DIYショップで安価なヨガマットを追加しておくと寝心地快適。
 
 ## <a name="tent">テント</a>
-* 1-2名用の小型テント。1-2万円程度で十分。
+* 1-2名用の小型テント。1-2万円程度で十分。2名用を1人で独占するのが快適。
 * 推奨テント例 Naturehikeテント2人用（グランドシート付）(Amazon価格16,900円) https://amzn.to/2G3Rgoe
 <img src="https://user-images.githubusercontent.com/416977/60890237-dfcb9a00-a295-11e9-9b55-3cc50e189359.jpg" width="200">
 
