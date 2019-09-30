@@ -136,10 +136,10 @@
 * CPU: Intel製 Core i5 相当以上（推奨）
 * Memory: 8GB以上
 * Storage: 128GB以上のSSD
-* Wi-Fi: IEEE802.11a/ac/n (5GHz 帯)が利用できるもの
+* Wi-Fi: IEEE802.11a/ac/n (5GHz 帯)が利用できるもの
 * Display Output: HDMIが内蔵端子あるいはアダプタ経由で出力できること
-* OS: macOS 10.13(High Sierra)以降または Windows10 以降のいずれかが動作すること
-* Battely: 標準バッテリでの駆動時間が2時間以上
+* OS: macOS 10.13(High Sierra)以降または Windows10 以降のいずれかが動作すること
+* Battely: 標準バッテリでの駆動時間が2時間以上
 
 ## <a name="smartphone">スマートフォン</a>
 * OS: iOSもしくはAndroid
@@ -182,5 +182,5 @@
 
 ---
 
-## 研究室志望動機の最後キーワード
+## 研究室志望動機の最後に記すべきキーワード
 私のGitHubアカウントはxxxxxです。 
