@@ -1,5 +1,5 @@
 # README/この研究室の特徴
-古橋研究室（古橋ゼミ）に興味のある学生は、必ずこの文章と[Issues](https://github.com/furuhashilab/README/issues)を最初に読んでください。このREADMEと[Issuesに集約されている各詳細ルール](https://github.com/furuhashilab/README/issues)を理解していない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md">2019/09/19 11:00JST Updated)</a>
+古橋研究室（古橋ゼミ）に興味のある学生は、必ずこの文章と[Issues](https://github.com/furuhashilab/README/issues)を最初に読んでください。このREADMEと[Issuesに集約されている各詳細ルール](https://github.com/furuhashilab/README/issues)を理解していない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md">2019/09/30 23:00JST Updated)</a>
 
 * **フィールドワーク重視**
 -- <a href="#furuhashilabrules">ゼミ</a>所属の学生は全員 **<a href="#nebukuro">寝袋</a>** / **<a href="#tent">テント(1-2名用)</a>** を購入してもらいます。毎月ゼミ合宿があります。（年間１２回以上企画されるゼミ合宿のうち最低３回以上の参加が条件）
@@ -42,8 +42,10 @@
 * 参加したフィールドワークの報告を[オンライン上(公式ブログ on Medium)](https://github.com/furuhashilab/README/issues/13)で必ず行う。
 * 毎年数回開催される国際会議・カンファレンスに3月末までに1回以上参加が必須。
 * 早い段階でクライシスマッピングに参画できるよう、マッパーレベルを**中級者クラス**まで引き上げる。（現在の閾値 [INTERMEDIATE以上](http://learnosm.org/en/coordination/tm-whats-new-for-mappers/)。 ex.[古橋](https://tasks.hotosm.org/user/MAPconcierge) ）
-* フィールドワークを楽しめる素養を得るために **INGRESSはLevel6以上** and **Pokémon GOはLevel25以上**もしくは**相応の位置情報ツール実績**を獲得する。毎年 9/30 23:59 JST までに三年生の中間報告として目標レベルの2/3（INGRESS Lv5以上、PokemonGO Lv13以上）到達しているかチェックする。到達していない場合は指導対象から外す。同様に毎年 3/31 23:59 JST までに三年生は達成目標をクリアし、プロフィールスクリーンショットを<a href="https://www.facebook.com/groups/furuhashilabnow/">Facebookグループ</a>に必ず投稿すること。期日に間に合わなかった場合は指導対象から外す。
+* フィールドワークを楽しめる素養を得るために **INGRESSはLevel6以上** and **Pokémon GOはLevel25以上**もしくは**相応の位置情報ツール実績**を獲得する。毎年 9/30 23:59:59 JST までに三年生の中間報告として目標レベルの2/3（INGRESS Lv5以上、PokemonGO Lv13以上）到達しているかチェックする。到達していない場合は指導対象から外す。同様に毎年 3/31 23:59 JST までに三年生は達成目標をクリアし、プロフィールスクリーンショットを<a href="https://www.facebook.com/groups/furuhashilabnow/">Facebookグループ</a>に必ず投稿すること。期日に間に合わなかった場合は指導対象から外す。特別な理由がある場合は別途相談とする。
 ※ 2018-09-17 に目標レベルの値を学生たちと議論して修正しました。
+※ 2019-09-30 に目標レベル未到達の場合について対処法を学生たちと議論して修正しました。
+
 
 ## ４年次
 * これからのしなやかな社会システムはどうあるべきか、仮説と提案ができるようになる。
@@ -99,7 +101,7 @@
 # 授業について
  
 ## 1． 欠席、遅刻、途中退席について
-* 欠席・遅刻・途中退席の場合は事前に [ゼミ共通のSlack](http://furuhashilab.slack.com/)  に欠席連絡を入れ、オンラインにて参加することとする。
+* 欠席・遅刻・途中退席の場合は **事前に [ゼミ共通のSlack](http://furuhashilab.slack.com/)  に欠席連絡** を入れ、オンラインにて参加することとする。
  
 ## 2． 私語について
 * 原則禁止とする。
