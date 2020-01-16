@@ -1,10 +1,12 @@
 # README/この研究室の特徴
-古橋研究室（古橋ゼミ）に興味のある学生は、必ずこの文章と[Issues](https://github.com/furuhashilab/README/issues)を最初に読んでください。このREADMEと[Issuesに集約されている各詳細ルール](https://github.com/furuhashilab/README/issues)を理解していない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md">2019/09/30 23:00JST Updated)</a>
+古橋研究室（古橋ゼミ）に興味のある学生は、必ずこの文章と[Issues](https://github.com/furuhashilab/README/issues)を最初に読んでください。このREADMEと[Issuesに集約されている各詳細ルール](https://github.com/furuhashilab/README/issues)を理解していない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md">2020/01/16 23:00JST Updated)</a>
 
 * **フィールドワーク重視**
--- <a href="#furuhashilabrules">ゼミ</a>所属の学生は全員 **<a href="#nebukuro">寝袋</a>** / **<a href="#tent">テント(1-2名用)</a>** を購入してもらいます。毎月ゼミ合宿があります。（年間１２回以上企画されるゼミ合宿のうち最低３回以上の参加が条件）
+-- <a href="#furuhashilabrules">ゼミ</a>所属の学生は全員 **<a href="#nebukuro">寝袋</a>** / **<a href="#tent">テント(1-2名用)</a>** を購入してもらいます。毎月１回以上のフィールドワークがあります。（年間１２回以上企画されるフィールドワークのうち最低３回以上の参加が条件）
+
 * **アウトプット重視**
 -- " **[Publish or Die](https://medium.com/furuhashilab/publish-or-die-8adb6fc8ad2b)** ": 積極的な発言、成果発表、提出物がすべて。<a href="#tassei">達成目標</a>をクリアできない学生は指導対象から外しますので注意してください。
+
 * **イベント運営経験重視**
 -- 自らイベントを企画し、運営し、多くの失敗とそのリカバリをすることは評価する。
 
@@ -13,6 +15,7 @@
 # 公式情報発信サイト
 * Facebook : https://www.facebook.com/furuhashilab/
 * Twitter : https://twitter.com/mapconcierge
+* Instagram : https://www.instagram.com/furuhashilab/
 * 公式WEB : http://furuhashilab.com/
 * 公式ブログ : https://medium.com/furuhashilab
 * 公式GitHub : https://github.com/furuhashilab
