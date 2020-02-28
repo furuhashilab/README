@@ -1,5 +1,5 @@
-# README/この研究室の特徴 v1.9
-古橋研究室（古橋ゼミ）に興味のある学生は、必ずこの文章と[Issues](https://github.com/furuhashilab/README/issues)を最初に読んでください。このREADMEと[Issuesに集約されている各詳細ルール](https://github.com/furuhashilab/README/issues)を理解していない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md">2020/01/16 23:00JST Updated)</a>
+# README/この研究室の特徴 v2.0
+古橋研究室（古橋ゼミ）に興味のある学生は、必ずこの文章と[Issues](https://github.com/furuhashilab/README/issues)を最初に読んでください。このREADMEと[Issuesに集約されている各詳細ルール](https://github.com/furuhashilab/README/issues)を理解していない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md">2020/02/28 15:00JST Updated)</a>
 
 * **フィールドワーク重視**
 -- <a href="#furuhashilabrules">ゼミ</a>所属の学生は全員 **<a href="#nebukuro">寝袋</a>** / **<a href="#tent">テント(1-2名用)</a>** を購入してもらいます。毎月１回以上のフィールドワークがあります。（年間１２回以上企画されるフィールドワークのうち最低３回以上の参加が条件）
@@ -39,6 +39,8 @@
 * 留学中のフィールドワーク
 
 ## ３年次
+* 3年次前期からゼミ活動は開始。留学中の学生もオンラインで参加必須。
+* [古橋研究室Facebook非公開グループ](https://www.facebook.com/groups/furuhashilabnow/)で共有される情報を日々確認できるようになる。
 * [古橋研究室基本モバイルアプリ](https://github.com/furuhashilab/README/issues/12) はすべて使いこなせるようになる。
 * 現時点で実現されている社会システムを、空間情報の視点で把握できるようになる。
 * 把握した情報や知識を整理・可視化し、他者に伝えられるようになる(グラレコの初歩を実践できる)。
