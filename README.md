@@ -1,4 +1,4 @@
-# README/この研究室の特徴 v2.0
+# README/この研究室の特徴 v2.1
 古橋研究室（古橋ゼミ）に興味のある学生は、必ずこの文章と[行動規範](https://github.com/furuhashilab/README/issues/4)、そして[Issues](https://github.com/furuhashilab/README/issues)を最初に読んでください。このREADMEと[Issuesに集約されている各詳細ルール](https://github.com/furuhashilab/README/issues)を理解していない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md">2020/04/05 11:00JST Updated)</a>
 
 * **フィールドワーク重視**
