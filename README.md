@@ -1,5 +1,5 @@
 # README/この研究室の特徴 v2.0
-古橋研究室（古橋ゼミ）に興味のある学生は、必ずこの文章と[行動規範](https://github.com/furuhashilab/README/issues/4)、そして[Issues](https://github.com/furuhashilab/README/issues)を最初に読んでください。このREADMEと[Issuesに集約されている各詳細ルール](https://github.com/furuhashilab/README/issues)を理解していない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md">2020/02/28 15:00JST Updated)</a>
+古橋研究室（古橋ゼミ）に興味のある学生は、必ずこの文章と[行動規範](https://github.com/furuhashilab/README/issues/4)、そして[Issues](https://github.com/furuhashilab/README/issues)を最初に読んでください。このREADMEと[Issuesに集約されている各詳細ルール](https://github.com/furuhashilab/README/issues)を理解していない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md">2020/04/05 11:00JST Updated)</a>
 
 * **フィールドワーク重視**
 -- <a href="#furuhashilabrules">ゼミ</a>所属の学生は全員 **<a href="#nebukuro">寝袋</a>** / **<a href="#tent">テント(1-2名用)</a>** を購入してもらいます。毎月１回以上のフィールドワークがあります。（年間１２回以上企画されるフィールドワークのうち最低３回以上の参加が条件）
