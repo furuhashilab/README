@@ -1,5 +1,5 @@
-# README/この研究室の特徴 v2.1
-古橋研究室（古橋ゼミ）に興味のある学生は、必ずこの文章と[行動規範](https://github.com/furuhashilab/README/issues/4)、そして[Issues](https://github.com/furuhashilab/README/issues)を最初に読んでください。このREADMEと[Issuesに集約されている各詳細ルール](https://github.com/furuhashilab/README/issues)を理解していない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md">2020/04/05 11:00JST Updated)</a>
+# README/この研究室の特徴 v2.2
+古橋研究室（古橋ゼミ）に興味のある学生は、必ずこの文章と[行動規範](https://github.com/furuhashilab/README/issues/4)、そして[Issues](https://github.com/furuhashilab/README/issues)を最初に読んでください。このREADMEと[Issuesに集約されている各詳細ルール](https://github.com/furuhashilab/README/issues)を理解していない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md">2020/09/07 11:00JST Updated)</a>
 
 * **フィールドワーク重視**
 -- <a href="#furuhashilabrules">ゼミ</a>所属の学生は全員 **<a href="#nebukuro">寝袋</a>** / **<a href="#tent">ソロテント(1-2名用)</a>** を購入してもらいます。通常は毎月１回以上のフィールドワークがあります。（年間１２回以上企画されるフィールドワークのうち最低３回以上の参加が条件） 2020年はCOVID-19の影響でMonthlyオンラインハッカソンで代替。
@@ -48,8 +48,8 @@
 * 毎月1回以上開催されるフィールドワークに3月末までに3回以上参加が必須(3-4年の間にツリーハウス合宿を最低１回、夏合宿は全員参加)。
 * 参加したフィールドワークの報告を[オンライン上(公式ブログ on Medium)](https://github.com/furuhashilab/README/issues/13)で必ず行う。
 * 毎年数回開催される国際会議・カンファレンスに3月末までに1回以上参加が必須。
-* 早い段階でクライシスマッピングに参画できるよう、マッパーレベルを**中級者クラス**まで引き上げる。（現在の閾値 [INTERMEDIATE以上](http://learnosm.org/en/coordination/tm-whats-new-for-mappers/)。 ex.[古橋](https://tasks.hotosm.org/user/MAPconcierge) ）
-* フィールドワークを楽しめる素養を得るために **INGRESSはLevel6以上** and **Pokémon GOはLevel25以上**もしくは**相応の位置情報ツール実績**を獲得する。毎年 9/30 23:59:59 JST までに三年生の中間報告として目標レベルの2/3（INGRESS Lv5以上、PokemonGO Lv13以上）到達しているかチェックする。到達していない場合は指導対象から外す。同様に毎年 1/31 23:59 JST までに三年生は達成目標をクリアし、プロフィールスクリーンショットを<a href="https://www.facebook.com/groups/furuhashilabnow/">Facebookグループ</a>に必ず投稿すること。期日に間に合わなかった場合は指導対象から外す。特別な理由がある場合は別途相談とする。
+* 早い段階でクライシスマッピングに参画できるよう、1/31迄にマッパーレベルを**中級者クラス**まで引き上げる。（現在の閾値 [INTERMEDIATE以上](http://learnosm.org/en/coordination/tm-whats-new-for-mappers/)。 ex.[古橋](https://tasks.hotosm.org/user/MAPconcierge) ）
+* フィールドワークを楽しめる素養を得るために **INGRESSはLevel6以上** and **Pokémon GOはLevel25以上**もしくは**相応の位置情報ツール実績(MinecraftEarth Lv.10以上、ドラクエWalk パーティ平均レベルLv40以上 等)**を獲得する。毎年 9/30 23:59:59 JST までに三年生の中間報告として目標レベルの2/3（INGRESS Lv5以上、PokemonGO Lv13以上）到達しているかチェックする。到達していない場合は指導対象から外す。同様に毎年 1/31 23:59 JST までに三年生は達成目標をクリアし、プロフィールスクリーンショットを<a href="https://www.facebook.com/groups/furuhashilabnow/">Facebookグループ</a>に必ず投稿すること。期日に間に合わなかった場合は指導対象から外す。特別な理由がある場合は別途相談とする。
 ※ 2018-09-17 に目標レベルの値を学生たちと議論して修正しました。
 ※ 2019-09-30 に目標レベル未到達の場合について対処法を学生たちと議論して修正しました。
 * 2020-01-16 に進捗確認日を成績提出期間前に再設定。
@@ -71,6 +71,7 @@
 * フィールド調査、情報の整理、外部有識者とのディスカッション、イベント運営
 * 空間情報の可視化、データビジュアライゼーション、情報共有
 * とくに情報の理解度向上/整理・構造化スキル向上/情報の可視化向上を目的に全員にグラフィックレコーディング技術を習得
+* 就職活動で役に立つポートフォリオ作成
 * ゼミ論(ゼミ内サークル活動と合わせても良い)
 * ゼミ内サークル活動
 * アドベントカレンダー(12月)
@@ -109,7 +110,7 @@
 
 【選考方法】
 * 志望動機
-* 面接
+* 面接(オンライン)
 
 ---
 
