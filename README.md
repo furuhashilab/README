@@ -47,7 +47,7 @@
 * [自ら課題を設定し、ゼミ論としてその課題にチャレンジする(成否は問わない)](https://github.com/furuhashilab/README/issues/5)。
 * 毎月1回以上開催されるフィールドワークに3月末までに3回以上参加が必須(3-4年の間にツリーハウス合宿を最低１回、夏合宿は全員参加)。
 * 参加したフィールドワークの報告を[オンライン上(公式ブログ on Medium)](https://github.com/furuhashilab/README/issues/13)で必ず行う。
-* 毎年数回開催される国際会議・カンファレンスに3月末までに1回以上参加が必須。
+* 毎年数回開催される[国際会議・カンファレンスに3月末までに1回以上参加](https://github.com/furuhashilab/README/issues/21)が必須。
 * 早い段階でクライシスマッピングに参画できるよう、1/31迄にマッパーレベルを**中級者クラス**まで引き上げる。（現在の閾値 [INTERMEDIATE以上](http://learnosm.org/en/coordination/tm-whats-new-for-mappers/)。 ex.[古橋](https://tasks.hotosm.org/user/MAPconcierge) ）
 * フィールドワークを楽しめる素養を得るために **INGRESSはLevel6以上** and **Pokémon GOはLevel25以上**もしくは**相応の位置情報ツール実績(MinecraftEarth Lv.10以上、ドラクエWalk パーティ平均レベルLv40以上 等)**を獲得する。毎年 9/30 23:59:59 JST までに三年生の中間報告として目標レベルの2/3（INGRESS Lv5以上、PokemonGO Lv13以上）到達しているかチェックする。到達していない場合は指導対象から外す。同様に毎年 1/31 23:59 JST までに三年生は達成目標をクリアし、プロフィールスクリーンショットを<a href="https://classroom.google.com/u/0/w/MTU1ODExMTIzNzA3/tc/MTc1NjEzOTYwNjI3">Google Classroom 課題</a>に必ず投稿すること。期日に間に合わなかった場合は指導対象から外す。特別な理由がある場合は別途相談とする。
 ※ 2018-09-17 に目標レベルの値を学生たちと議論して修正しました。
@@ -60,7 +60,7 @@
 * [自ら課題を設定し、卒論/ゼミ論としてその課題にチャレンジする(成否は問わない)](https://github.com/furuhashilab/README/issues/5)。
 * 毎月1回以上開催されるフィールドワークに3月末までに3回以上参加が必須。
 * 参加したフィールドワークの報告を[オンライン上(公式ブログ on Medium)](https://github.com/furuhashilab/README/issues/13)で必ず行う。
-* 毎年数回開催される国際会議・カンファレンスに3月末までに1回以上参加が必須。
+* 毎年数回開催される[国際会議・カンファレンスに3月末までに1回以上参加](https://github.com/furuhashilab/README/issues/21)が必須。
 
 
 # 実施する内容：
