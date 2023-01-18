@@ -2,7 +2,7 @@
 古橋研究室（古橋ゼミ）に興味のある学生は、必ずこの文章と[行動規範](https://github.com/furuhashilab/README/issues/4)、そして[Issues](https://github.com/furuhashilab/README/issues)を最初に読んでください。このREADMEと[Issuesに集約されている各詳細ルール](https://github.com/furuhashilab/README/issues)を理解していない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commit/f2f9bb6bfd08fd211657b076b6589329e4a87c27">2023/01/18 15:30JST Updated)</a>
 
 * **フィールドワーク重視**
--- <a href="#furuhashilabrules">ゼミ</a>所属の学生は全員 **<a href="#nebukuro">寝袋</a>** / **<a href="#tent">ソロテント(1-2名用)</a>** を購入してもらいます。毎毎年複数回のフィールドワークがあります。（年間最低３回以上の参加が条件） 
+-- <a href="#furuhashilabrules">ゼミ</a>所属の学生は全員 **<a href="#nebukuro">寝袋</a>** / **<a href="#tent">ソロテント(1-2名用)</a>** を用意してもらいます。毎年複数回のフィールドワークがあります。（年間最低３回以上の参加が条件） 
 
 * **アウトプット重視**
 -- " **[Publish or Die](https://medium.com/furuhashilab/publish-or-die-8adb6fc8ad2b)** ": 積極的な発言、成果発表、提出物がすべて。<a href="#tassei">達成目標</a>をクリアできない学生は指導対象から外しますので注意してください。
@@ -14,19 +14,15 @@
 
 # 公式情報発信サイト
 * Facebook : https://www.facebook.com/furuhashilab/
-* Twitter : https://twitter.com/mapconcierge
+* Twitter : https://twitter.com/furuhashilab
 * Instagram : https://www.instagram.com/furuhashilab/
 * 公式WEB : http://furuhashilab.com/
 * 公式ブログ : https://medium.com/furuhashilab
 * 公式GitHub : https://github.com/furuhashilab
 * 公式YouTube : https://www.youtube.com/channel/UC7ibSx7RwsxQPGjHX0ab5TQ
 * ゼミ生向けSlack : http://furuhashilab.slack.com/
-* ゼミ生向けGoogleカレンダー : [https://calendar.google.com/](https://calendar.google.com/calendar/embed?src=anpvnieclcm84ibb28epicuee8%40group.calendar.google.com&ctz=Asia%2FTokyo) 
-
-```※ 「ゼミカレンダーを見ていないために予定に気づきませんでした」という言い訳は通用しません。```
 
 ---
-
 
 # 目的：
 一億総伊能化社会※ における、よりしなやか(レジリエント)な社会システムを提案し、実践する。
