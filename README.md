@@ -142,16 +142,16 @@
 
 ---
 
-# 古橋ゼミ標準装備2020
+# 古橋ゼミ標準装備2023
 ## <a name="notepc">ノートPC</a>
 * Display: 解像度 WXGA+(1440×900)以上
-* CPU: Intel製 Core i5 相当以上（推奨）
-* Memory: 8GB以上
+* CPU: Intel製 Core i5 相当以上（推奨） or Apple M1 相当以上（推奨）
+* Memory: 16GB 以上（推奨）
 * Storage: 128GB以上のSSD
-* Wi-Fi: IEEE802.11a/ac/n (5GHz 帯)が利用できるもの
+* Wi-Fi: IEEE802.11a/ac/n (5GHz帯)が利用できるもの
 * Display Output: HDMIが内蔵端子あるいはアダプタ経由で出力できること
-* OS: macOS 10.13(High Sierra)以降または Windows10 以降のいずれかが動作すること
-* Battely: 標準バッテリでの駆動時間が2時間以上
+* OS: macOS 11(Big Sur)以降または Windows10 以降のいずれかが動作すること
+* Battely: 標準バッテリでの駆動時間が最低2時間以上
 
 ## <a name="smartphone">スマートフォン</a>
 * OS: iOSもしくはAndroid
@@ -181,6 +181,7 @@
 ## ヘッドランプ
 * 小型軽量LEDタイプ
 * 可愛さ・デザイン重視で良い
+* 予算に余裕があれば [たねほうずき](https://amzn.to/3kqUQjk) もオススメ。
 
 ---
 
