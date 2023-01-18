@@ -8,7 +8,7 @@
 -- " **[Publish or Die](https://medium.com/furuhashilab/publish-or-die-8adb6fc8ad2b)** ": 積極的な発言、成果発表、提出物がすべて。<a href="#tassei">達成目標</a>をクリアできない学生は指導対象から外しますので注意してください。
 
 * **イベント運営経験重視**
--- 自らイベントを企画し、運営し、多くの失敗とそのリカバリをすることは評価する。
+-- 自らイベントを企画し、運営し、多くの失敗とそのリカバリをすることは評価します。
 
 <img src="https://user-images.githubusercontent.com/416977/213129387-9abfc228-33e1-413b-928d-b93a4b3ab0bf.jpg" width="800" />
 
