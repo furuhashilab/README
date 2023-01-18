@@ -1,5 +1,5 @@
 # README/この研究室の特徴 v2.4
-古橋研究室（古橋ゼミ）に興味のある学生は、必ずこの文章と[行動規範](https://github.com/furuhashilab/README/issues/4)、そして[Issues](https://github.com/furuhashilab/README/issues)を最初に読んでください。このREADMEと[Issuesに集約されている各詳細ルール](https://github.com/furuhashilab/README/issues)を理解していない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md">2023/01/18 15:30JST Updated)</a>
+古橋研究室（古橋ゼミ）に興味のある学生は、必ずこの文章と[行動規範](https://github.com/furuhashilab/README/issues/4)、そして[Issues](https://github.com/furuhashilab/README/issues)を最初に読んでください。このREADMEと[Issuesに集約されている各詳細ルール](https://github.com/furuhashilab/README/issues)を理解していない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commit/f2f9bb6bfd08fd211657b076b6589329e4a87c27">2023/01/18 15:30JST Updated)</a>
 
 * **フィールドワーク重視**
 -- <a href="#furuhashilabrules">ゼミ</a>所属の学生は全員 **<a href="#nebukuro">寝袋</a>** / **<a href="#tent">ソロテント(1-2名用)</a>** を購入してもらいます。通常は毎月１回以上のフィールドワークがあります。（年間１２回以上企画されるフィールドワークのうち最低３回以上の参加が条件） 2020-2021年はCOVID-19の影響でMonthlyオンラインハッカソンで代替。
@@ -105,7 +105,7 @@
 * すべての授業でインターネットを用います。そのためには**ノートPCを所有していること**、**スマートフォンを所有していることを必須**とする。
 
 【募集人員】
-２０名
+１０名
 
 
 【選考方法】
