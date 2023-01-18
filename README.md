@@ -1,4 +1,4 @@
-# README/この研究室の特徴 v2.4
+# README/この研究室の特徴 v2.5
 古橋研究室（古橋ゼミ）に興味のある学生は、必ずこの文章と[行動規範](https://github.com/furuhashilab/README/issues/4)、そして[Issues](https://github.com/furuhashilab/README/issues)を最初に読んでください。このREADMEと[Issuesに集約されている各詳細ルール](https://github.com/furuhashilab/README/issues)を理解していない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md/">2023/01/18 Updated)</a>
 
 * **フィールドワーク重視**
@@ -170,27 +170,17 @@
 
 ## <a name="tent">テント</a>
 * 1-2名用の小型テント。1-2万円程度で十分。2名用を1人で独占するのが快適。
+
+* 推奨テント例 BASICドームテント 1人用 （キャノピー110cm）(WEB価格4,900円) https://workman.jp/shop/g/g2300066031023/
+<img src="https://user-images.githubusercontent.com/416977/60890163-b743a000-a295-11e9-99d8-1d9df598394f.jpg" width="200">
+
 * 推奨テント例 Naturehikeテント2人用（グランドシート付）(Amazon価格16,900円) https://amzn.to/2G3Rgoe
 <img src="https://user-images.githubusercontent.com/416977/60890237-dfcb9a00-a295-11e9-9b55-3cc50e189359.jpg" width="200">
-
-* 推奨テント例 LOGOS ナバホTepee300(定価21,000円/但し廃盤商品) http://www.logos.ne.jp/products/info/2046
-<img src="https://user-images.githubusercontent.com/416977/37259450-c77d6db0-25c9-11e8-9bda-f4126f2ec775.jpg" width="200">
-
-* 推奨テント例 CAPTAIN STAG（キャプテン スタッグ）アルミワンポールテント(Amazon価格12,091円) https://amzn.to/2G3Mjfv
-<img src="https://user-images.githubusercontent.com/416977/60890163-b743a000-a295-11e9-99d8-1d9df598394f.jpg" width="200">
 
 
 ## ヘッドランプ
 * 小型軽量LEDタイプ
 * 可愛さ・デザイン重視で良い
-
-## 食器類
-* コッヘル
-* シェラカップ
-* 箸
-* スプーン
-* ナイフ
-* トイレットペーパー（２泊3日で１個）： 食器洗い用にも使用します。
 
 ---
 
