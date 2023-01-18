@@ -10,7 +10,7 @@
 * **イベント運営経験重視**
 -- 自らイベントを企画し、運営し、多くの失敗とそのリカバリをすることは評価する。
 
-<img src="https://user-images.githubusercontent.com/416977/213128874-4c2cde79-ee9b-4681-9391-4274ee81b18b.jpg" width="800" />
+<img src="https://user-images.githubusercontent.com/416977/213129387-9abfc228-33e1-413b-928d-b93a4b3ab0bf.jpg" width="800" />
 
 # 公式情報発信サイト
 * Facebook : https://www.facebook.com/furuhashilab/
