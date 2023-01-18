@@ -19,7 +19,7 @@
 * 公式WEB : http://furuhashilab.com/
 * 公式ブログ : https://medium.com/furuhashilab
 * 公式GitHub : https://github.com/furuhashilab
-* 公式YouTube : https://www.youtube.com/channel/UC7ibSx7RwsxQPGjHX0ab5TQ
+* 公式YouTube : https://www.youtube.com/@furuhashilabs
 * ゼミ生向けSlack : http://furuhashilab.slack.com/
 
 ---
