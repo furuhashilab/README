@@ -168,13 +168,13 @@
 * 安価なヨガマットや[コット](https://workman.jp/shop/g/g2300063297026/)など寝心地を良くするグッズがあればなお良し。
 
 ## <a name="tent">テント</a>
-* 1-2名用の小型テント。1-2万円程度で十分。2名用を1人で独占するのが快適。
+* 1-2名用の小型テント。5,000円-2万円程度で十分。2名用を1人で独占するのが快適。
 
 * 推奨テント例 BASICドームテント 1人用 （キャノピー110cm）(WEB価格4,900円) https://workman.jp/shop/g/g2300066031023/
-<img src="https://user-images.githubusercontent.com/416977/60890163-b743a000-a295-11e9-99d8-1d9df598394f.jpg" width="200">
+<img src="https://workman.jp/img/goods/L/66031_t1.jpg" width="200">
 
 * 推奨テント例 Naturehikeテント2人用（グランドシート付）(Amazon価格16,900円) https://amzn.to/2G3Rgoe
-<img src="https://workman.jp/img/goods/L/66031_t1.jpg" width="200">
+<img src="https://m.media-amazon.com/images/I/51TDXVfIBGL._AC_SL1200_.jpg" width="200">
 
 
 ## ヘッドランプ
