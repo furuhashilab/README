@@ -166,7 +166,7 @@
 * 3シーズン用で十分。
 * 封筒型推奨、アウトドアにハマった人はマミー型。
 * 羽毛など贅沢なものは不要。バーゲンなどを狙えば 500円〜3,000円程度で入手可能。
-* DIYショップで安価なヨガマットを追加しておくと寝心地快適。
+* 安価なヨガマットやコットなど寝心地を良くするグッズがあればなお良し。
 
 ## <a name="tent">テント</a>
 * 1-2名用の小型テント。1-2万円程度で十分。2名用を1人で独占するのが快適。
@@ -175,7 +175,7 @@
 <img src="https://user-images.githubusercontent.com/416977/60890163-b743a000-a295-11e9-99d8-1d9df598394f.jpg" width="200">
 
 * 推奨テント例 Naturehikeテント2人用（グランドシート付）(Amazon価格16,900円) https://amzn.to/2G3Rgoe
-<img src="https://user-images.githubusercontent.com/416977/60890237-dfcb9a00-a295-11e9-9b55-3cc50e189359.jpg" width="200">
+<img src="https://workman.jp/img/goods/L/66031_t1.jpg" width="200">
 
 
 ## ヘッドランプ
