@@ -10,8 +10,7 @@
 * **イベント運営経験重視**
 -- 自らイベントを企画し、運営し、多くの失敗とそのリカバリをすることは評価します。
 
-<img src="https://user-images.githubusercontent.com/416977/213129387-9abfc228-33e1-413b-928d-b93a4b3ab0bf.jpg" width="800" />
-photo by [Tothapi](https://www.facebook.com/photo.php?fbid=680570733662629&set=pb.100051291261557.-2207520000.&type=3)
+<img src="https://user-images.githubusercontent.com/416977/213129387-9abfc228-33e1-413b-928d-b93a4b3ab0bf.jpg" width="800" /> photo by <a href="https://www.facebook.com/photo.php?fbid=680570733662629&set=pb.100051291261557.-2207520000.&type=3" >Tothapi</a>
 
 # 公式情報発信サイト
 * Facebook : https://www.facebook.com/furuhashilab/
