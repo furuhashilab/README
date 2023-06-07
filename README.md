@@ -1,5 +1,14 @@
-# README/この研究室の特徴 v2.5
+# About the Furuhashi Lab.
+We are the Furuhashi Laboratory at Aoyama Gakuin University,Japan. a.k.a. mapconcierge's Lab.
+
+---
+
+**>>> [アドグル希望の学生はこちら！](https://github.com/furuhashilab/advisergroup)**
+
+---
+
 古橋研究室（古橋ゼミ）に興味のある学生は、必ずこの文章と[行動規範](https://github.com/furuhashilab/README/issues/4)、そして[Issues](https://github.com/furuhashilab/README/issues)を最初に読んでください。このREADMEと[Issuesに集約されている各詳細ルール](https://github.com/furuhashilab/README/issues)を理解していない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md/">2023/01/18 Updated)</a>
+
 
 * **フィールドワーク重視**
 -- <a href="#furuhashilabrules">ゼミ</a>所属の学生は全員 **<a href="#nebukuro">寝袋</a>** / **<a href="#tent">ソロテント(1-2名用)</a>** を用意してもらいます。毎年複数回のフィールドワークがあります。（年間最低３回以上の参加が条件） 
@@ -10,7 +19,8 @@
 * **イベント運営経験重視**
 -- 自らイベントを企画し、運営し、多くの失敗とそのリカバリをすることは評価します。
 
-<img src="https://user-images.githubusercontent.com/416977/213129387-9abfc228-33e1-413b-928d-b93a4b3ab0bf.jpg" width="800" /> photo by <a href="https://www.facebook.com/photo.php?fbid=680570733662629&set=pb.100051291261557.-2207520000.&type=3" >Tothapi</a>
+<img src="https://user-images.githubusercontent.com/416977/213129387-9abfc228-33e1-413b-928d-b93a4b3ab0bf.jpg" width="800" />
+photo by <a href="https://www.facebook.com/photo.php?fbid=680570733662629&set=pb.100051291261557.-2207520000.&type=3" >Tothapi</a>
 
 # 公式情報発信サイト
 * Facebook : https://www.facebook.com/furuhashilab/
@@ -32,6 +42,7 @@
 # <a name="tassei">達成目標：</a>
 ## 2年次(所属決定後)
 * 研究室での活動に必要なITスキルの向上(Google各種ツール,GitHub,Slack,Facebook等)。
+* ハッカソンや合宿の参加
 * 留学中のフィールドワーク
 
 ## ３年次
