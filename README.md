@@ -7,7 +7,7 @@ We are the Furuhashi Laboratory at Aoyama Gakuin University,Japan. a.k.a. mapcon
 
 ---
 
-古橋研究室（古橋ゼミ）に興味のある学生は、必ずこの文章と[行動規範](https://github.com/furuhashilab/README/issues/4)、そして[Issues](https://github.com/furuhashilab/README/issues)を最初に読んでください。このREADMEと[Issuesに集約されている各詳細ルール](https://github.com/furuhashilab/README/issues)を理解していない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md/">2023/01/18 Updated)</a>
+古橋研究室（古橋ゼミ）に興味のある学生は、必ずこの文章と[行動規範](https://github.com/furuhashilab/README/issues/4)、そして[Issues](https://github.com/furuhashilab/README/issues)を最初に読んでください。このREADMEと[Issuesに集約されている各詳細ルール](https://github.com/furuhashilab/README/issues)を理解していない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md/">2023/09/13 Updated)</a>
 
 
 * **フィールドワーク重視**
@@ -56,7 +56,7 @@ photo by <a href="https://www.facebook.com/photo.php?fbid=680570733662629&set=pb
 * 参加したフィールドワークの報告を[オンライン上(公式ブログ on Medium)](https://github.com/furuhashilab/README/issues/13)で必ず行う。
 * 毎年数回開催される[国際会議・カンファレンスに3月末までに1回以上参加](https://github.com/furuhashilab/README/issues/21)が必須。
 * 早い段階でクライシスマッピングに参画できるよう、1/31迄にマッパーレベルを**中級者クラス**まで引き上げる。（現在の閾値 [INTERMEDIATE以上](http://learnosm.org/en/coordination/tm-whats-new-for-mappers/)。 ex.[古橋](https://tasks.hotosm.org/user/MAPconcierge) ）
-* フィールドワークを楽しめる素養を得るために **INGRESSはLevel6以上** and **Pokémon GOはLevel30以上**もしくは**相応の位置情報ツール実績(MinecraftEarth Lv.10以上、ドラクエWalk パーティ平均レベルLv40以上、Pikmin Bloom Lv.50 以上等)**を獲得する。毎年 9/30 23:59:59 JST までに三年生の中間報告として目標レベルの2/3（INGRESS Lv5以上、PokemonGO Lv20以上）到達しているかチェックする。到達していない場合は指導対象から外す。同様に毎年 1/31 23:59 JST までに三年生は達成目標をクリアし、プロフィールスクリーンショットを<a href="https://classroom.google.com/u/0/w/MTU1ODExMTIzNzA3/tc/MTc1NjEzOTYwNjI3">Google Classroom 課題</a>に必ず投稿すること。期日に間に合わなかった場合は指導対象から外す。特別な理由がある場合は別途相談とする。
+* フィールドワークを楽しめる素養を得るために **INGRESSはLevel6以上** and **Pokémon GOはLevel30以上**もしくは**相応の位置情報ツール実績(~~MinecraftEarth Lv.10以上~~、ドラクエWalk パーティ平均レベルLv40以上、Pikmin Bloom Lv.50以上、信長の野望出陣 Lv.30以上等)**を獲得する。毎年 9/30 23:59:59 JST までに三年生の中間報告として目標レベルの2/3（INGRESS Lv5以上、PokemonGO Lv20以上）到達しているかチェックする。到達していない場合は指導対象から外す。同様に毎年 1/31 23:59 JST までに三年生は達成目標をクリアし、プロフィールスクリーンショットを<a href="https://www.facebook.com/groups/furuhashilabnow">Facebook青学古橋研究室プライベートグループ</a>に必ず投稿すること。期日に間に合わなかった場合は指導対象から外す。特別な理由がある場合は別途相談とする。
 ※ 2018-09-17 に目標レベルの値を学生たちと議論して修正しました。
 ※ 2019-09-30 に目標レベル未到達の場合について対処法を学生たちと議論して修正しました。
 ※ 2020-01-16 に進捗確認日を成績提出期間前に再設定。
