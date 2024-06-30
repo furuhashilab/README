@@ -7,7 +7,7 @@ We are the Furuhashi Laboratory at Aoyama Gakuin University,Japan. a.k.a. mapcon
 
 ---
 
-古橋研究室（古橋ゼミ）に興味のある学生は、必ずこの文章と[行動規範](https://github.com/furuhashilab/README/issues/4)、そして[Issues](https://github.com/furuhashilab/README/issues)を最初に読んでください。このREADMEと[Issuesに集約されている各詳細ルール](https://github.com/furuhashilab/README/issues)を理解していない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md/">2023/09/13 Updated)</a>
+古橋研究室（古橋ゼミ）に興味のある学生は、必ずこの文章と[行動規範](https://github.com/furuhashilab/README/issues/4)、そして[Issues](https://github.com/furuhashilab/README/issues)を最初に読んでください。このREADMEと[Issuesに集約されている各詳細ルール](https://github.com/furuhashilab/README/issues)を理解していない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md/">2024/03/19 Updated)</a>
 
 
 * **フィールドワーク重視**
@@ -52,11 +52,11 @@ photo by <a href="https://www.facebook.com/photo.php?fbid=680570733662629&set=pb
 * 現時点で実現されている社会システムを、空間情報の視点で把握できるようになる。
 * 把握した情報や知識を整理・可視化し、他者に伝えられるようになる(グラレコの初歩を実践できる)。
 * [自ら課題を設定し、ゼミ論としてその課題にチャレンジする(成否は問わない)](https://github.com/furuhashilab/README/issues/5)。
-* 古橋研究室フィールドワークに毎年度3月末までに3回以上参加が必須(3-4年の間にツリーハウス合宿を最低１回、夏合宿は原則全員参加)。
+* 古橋研究室[フィールドワークに毎年度3月末までに3回以上参加](https://github.com/furuhashilab/README/issues/3)が必須(3-4年の間にツリーハウス合宿を最低１回、夏合宿は原則全員参加)。
 * 参加したフィールドワークの報告を[オンライン上(公式ブログ on Medium)](https://github.com/furuhashilab/README/issues/13)で必ず行う。
 * 毎年数回開催される[国際会議・カンファレンスに3月末までに1回以上参加](https://github.com/furuhashilab/README/issues/21)が必須。
 * 早い段階でクライシスマッピングに参画できるよう、1/31迄にマッパーレベルを**中級者クラス**まで引き上げる。（現在の閾値 [INTERMEDIATE以上](http://learnosm.org/en/coordination/tm-whats-new-for-mappers/)。 ex.[古橋](https://tasks.hotosm.org/user/MAPconcierge) ）
-* フィールドワークを楽しめる素養を得るために **INGRESSはLevel6以上** and **Pokémon GOはLevel30以上** もしくは **相応の位置情報ツール実績(~~MinecraftEarth Lv.10以上~~、ドラクエWalk パーティ平均レベルLv40以上、Jurassic Worlds Alive Lv.10以上、Pikmin Bloom Lv.50以上、信長の野望出陣 Lv.30以上等)** を獲得する。毎年 9/30 23:59:59 JST までに三年生の中間報告として目標レベルの2/3（INGRESS Lv5以上、PokemonGO Lv20以上）到達しているかチェックする。到達していない場合は指導対象から外す。同様に毎年 1/31 23:59 JST までに三年生は達成目標をクリアし、プロフィールスクリーンショットを<a href="https://www.facebook.com/groups/furuhashilabnow">Facebook青学古橋研究室プライベートグループ</a>に必ず投稿すること。期日に間に合わなかった場合は指導対象から外す。特別な理由がある場合は別途相談とする。
+* フィールドワークを楽しめる素養を得るために **INGRESSはLevel6以上** and **Pokémon GOはLevel30以上** もしくは **相応の位置情報ツール実績(~~MinecraftEarth Lv.10以上~~、ドラクエWalk パーティ平均レベルLv40以上、Pikmin Bloom Lv.50以上、信長の野望出陣 Lv.30以上、モンスターハンターNow Lv.40以上、駅メモ Rank50以上)** を獲得する。毎年 9/30 23:59:59 JST までに三年生の中間報告として目標レベルの2/3（INGRESS Lv5以上、PokemonGO Lv20以上等）到達しているかチェックする。到達していない場合は指導対象から外す。同様に毎年 1/31 23:59 JST までに三年生は達成目標をクリアし、プロフィールスクリーンショットを<a href="https://www.facebook.com/groups/furuhashilabnow">Facebook青学古橋研究室プライベートグループ</a>に必ず投稿すること。期日に間に合わなかった場合は指導対象から外す。特別な理由がある場合は別途相談とする。
 ※ 2018-09-17 に目標レベルの値を学生たちと議論して修正しました。
 ※ 2019-09-30 に目標レベル未到達の場合について対処法を学生たちと議論して修正しました。
 ※ 2020-01-16 に進捗確認日を成績提出期間前に再設定。
@@ -66,7 +66,7 @@ photo by <a href="https://www.facebook.com/photo.php?fbid=680570733662629&set=pb
 * これからのしなやかな社会システムはどうあるべきか、仮説と提案ができるようになる。
 * 仮説・提案を確認するために自分で試験的に取り組んでみる。
 * [自ら課題を設定し、卒論/ゼミ論としてその課題にチャレンジする(成否は問わない)](https://github.com/furuhashilab/README/issues/5)。
-* 研究室のフィールドワークに3月末までに3回以上参加が必須。
+* 研究室の[フィールドワークに3月末](https://github.com/furuhashilab/README/issues/3)までに3回以上参加が必須。
 * 参加したフィールドワークの報告を[オンライン上(公式ブログ on Medium)](https://github.com/furuhashilab/README/issues/13)で必ず行う。
 * 毎年数回開催される[国際会議・カンファレンスに3月末までに1回以上参加](https://github.com/furuhashilab/README/issues/21)が必須。
 
@@ -124,7 +124,7 @@ photo by <a href="https://www.facebook.com/photo.php?fbid=680570733662629&set=pb
 # 授業について
  
 ## 1． 欠席、遅刻、途中退席について
-* 欠席・遅刻・途中退席の場合は **事前に [ゼミ共通のSlack](http://furuhashilab.slack.com/)  に欠席連絡** を入れ、オンラインにて参加することとする。
+* 欠席・遅刻・途中退席の場合は **事前に [ゼミ共通のSlack](http://furuhashilab.slack.com/) もしくは [Instagramグループチャット](https://www.instagram.com/direct/t/7282225225134348/) に欠席連絡** を入れ、オンラインにて参加することとする。
  
 ## 2． 私語について
 * 原則禁止とする。
@@ -139,7 +139,7 @@ photo by <a href="https://www.facebook.com/photo.php?fbid=680570733662629&set=pb
  
 ## 5． <a name="furuhashilabrules">古橋ゼミ特有のルール</a>
 * ウェブ利用時の原則として**モダンウェブブラウザ**である Firefox, Chrome, Safari, Edge を前提とします。特にモダンウェブブラウザではない Microsoft Internet Explorer（以下IE） は使用禁止とします。もし IE を使用したことが原因で発生したトラブルについては一切対応しません。 
-* 文書等の提出は基本 [**Markdown記法**](http://www.openstreetmap.org/user/MAPconcierge/diary/38649) とします。ウェブブラウザで扱うことが出来、Permalinkとして機能する手法でのみ受け付けます。Microsft Word Document File（以下 doc/docx ファイル）で提出した場合は受け取りません。
+* 文書等の提出は基本 [**Markdown記法**](http://www.openstreetmap.org/user/MAPconcierge/diary/38649) とします。ウェブブラウザで扱うことが出来、Permalinkとして機能する手法でのみ受け付けます。Microsoft Word Document File（以下 doc/docx ファイル）で提出した場合は受け取りません。
 * 文字コードは原則 **UTF-8** のみとします。ShiftJISやEUC等は特別な理由がない限り使用しないでください。
 * 特別な理由がない限り印刷目的のコンテンツに対して MSゴシック/MS明朝等のディスプレイ表示用フォント使用は禁止します。印刷用に最適化されたフォントを選んでください。
 
@@ -152,7 +152,7 @@ photo by <a href="https://www.facebook.com/photo.php?fbid=680570733662629&set=pb
 
 ---
 
-# 古橋ゼミ標準装備20234
+# 古橋ゼミ標準装備2023
 ## <a name="notepc">ノートPC</a>
 * Display: 解像度 WXGA+(1440×900)以上
 * CPU: Intel製 Core i5 相当以上（推奨） or Apple M1 相当以上（推奨）
@@ -162,7 +162,6 @@ photo by <a href="https://www.facebook.com/photo.php?fbid=680570733662629&set=pb
 * Display Output: HDMIが内蔵端子あるいはアダプタ経由で出力できること
 * OS: macOS 11(Big Sur)以降または Windows10 以降のいずれかが動作すること
 * Battely: 標準バッテリでの駆動時間が最低2時間以上
-* [参考資料](https://pc.watch.impress.co.jp/docs/topic/feature/1583904.html)
 
 ## <a name="smartphone">スマートフォン</a>
 * OS: iOSもしくはAndroid
