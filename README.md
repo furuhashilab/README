@@ -41,8 +41,8 @@ photo by <a href="https://www.facebook.com/photo.php?fbid=680570733662629&set=pb
 
 # <a name="tassei">達成目標：</a>
 ## 2年次(所属決定後)
-* 研究室での活動に必要なITスキルの向上(Google各種ツール,GitHub,Slack,Facebook等)。
-* ハッカソンや合宿の参加
+* [研究室での活動に必要なITスキルの向上(Google各種ツール,GitHub,Slack,Facebook等)](https://github.com/furuhashilab/README/issues/18)
+* [ハッカソンや合宿の参加](https://www.facebook.com/groups/furuhashilabnow)
 * [留学中のフィールドワーク](https://github.com/furuhashilab/README/issues/36)
 
 ## ３年次
