@@ -30,6 +30,7 @@ photo by <a href="https://www.facebook.com/photo.php?fbid=680570733662629&set=pb
 * 公式ブログ : https://medium.com/furuhashilab
 * 公式GitHub : https://github.com/furuhashilab
 * 公式YouTube : https://www.youtube.com/@furuhashilabs
+* YouTube再生リスト : https://youtube.com/playlist?list=PLtNZ0UPlDLE9zAW9Ghh-fQPJBIkxPxSRS&si=AePPDJrwM1_G5RNK
 * ゼミ生向けSlack : http://furuhashilab.slack.com/
 
 ---
