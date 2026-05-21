@@ -133,7 +133,7 @@ photo by <a href="https://www.facebook.com/photo.php?fbid=680570733662629&set=pb
 # 授業について
  
 ## 1． 欠席、遅刻、途中退席について
-* 欠席・遅刻・途中退席の場合は **事前に [ゼミ共通のSlack](http://furuhashilab.slack.com/) もしくは [Instagramグループチャット](https://www.instagram.com/direct/t/7282225225134348/) に欠席連絡** を入れ、オンラインにて参加することとする。
+* 欠席・遅刻・途中退席の場合は **事前に [Instagramグループチャット](https://ig.me/j/AbYyCCedFVEZNgAP/) に欠席連絡** を入れ、オンラインにて参加することとする。
  
 ## 2． 私語について
 * 原則禁止とする。
