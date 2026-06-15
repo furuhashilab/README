@@ -7,7 +7,7 @@ We are the Furuhashi Laboratory at Aoyama Gakuin University,Japan. a.k.a. mapcon
 
 ---
 
-古橋研究室（古橋ゼミ）に興味のある学生は、必ずこの文章と[行動規範](https://github.com/furuhashilab/README/issues/4)、そして[Issues](https://github.com/furuhashilab/README/issues)を最初に読んでください。このREADMEと[Issuesに集約されている各詳細ルール](https://github.com/furuhashilab/README/issues)を理解していない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md/">2025/03/11 Updated)</a>
+古橋研究室（古橋ゼミ）に興味のある学生は、必ずこの文章と[行動規範](https://github.com/furuhashilab/README/tree/master?tab=coc-ov-file)、そして[Issues](https://github.com/furuhashilab/README/issues)を最初に読んでください。このREADMEと[Issuesに集約されている各詳細ルール](https://github.com/furuhashilab/README/issues)を理解していない学生は所属を認めません。 (<a href="https://github.com/furuhashilab/README/commits/master/README.md/">2025/03/11 Updated)</a>
 
 
 ## 基本理念
